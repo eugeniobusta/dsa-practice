@@ -12,6 +12,7 @@ Tracking my progress solving Data Structures & Algorithms problems.
 |  49 | [Group Anagrams](https://neetcode.io/problems/anagram-groups/question) | Arrays & Hashing | Medium | O(m * n) | N/A | 3/11/2026 | yes |
 | 347 | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list/question) | Arrays & Hashing | Medium | O(n) | O(n) | 4/11/2026 | for complexity |
 | 271 | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode/question) | Arrays & Hashing | Medium | O(n) | O(n) | 4/11/2026 | yes (video) |
+| 238 | [Products of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self/question) | Arrays & Hashing | Medium | O(n) | O(n) | 4/11/2026 | yes (video) |
 
 ---
 
