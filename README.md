@@ -15,6 +15,8 @@ Tracking my progress solving Data Structures & Algorithms problems.
 | 238 | [Products of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self/question) | Arrays & Hashing | Medium | O(n) | O(n) | 4/11/2026 | yes (video) |
 |  36 | [Valid Sudoku](https://neetcode.io/problems/valid-sudoku/question) | Arrays & Hashing | Medium | O(1) | O(1) | 4/11/2026 | check 3x3 |
 | 128 | [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence/question) | Arrays & Hashing | Medium | O(1) | O(1) | 4/11/2026 | No |
+| 125 | [Valid Palindrome](https://neetcode.io/problems/is-palindrome/question) | Two Pointers | Easy | O(n) | O(1) | 4/11/2026 | No |
+
 ---
 
 
