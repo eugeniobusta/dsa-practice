@@ -16,7 +16,10 @@ Tracking my progress solving Data Structures & Algorithms problems.
 |  36 | [Valid Sudoku](https://neetcode.io/problems/valid-sudoku/question) | Arrays & Hashing | Medium | O(1) | O(1) | 4/11/2026 | check 3x3 |
 | 128 | [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence/question) | Arrays & Hashing | Medium | O(1) | O(1) | 4/11/2026 | No |
 | 125 | [Valid Palindrome](https://neetcode.io/problems/is-palindrome/question) | Two Pointers | Easy | O(n) | O(1) | 4/11/2026 | No |
-| 125 | [Two Integer Sum II](https://neetcode.io/problems/two-integer-sum-ii/question) | Two Pointers | Medium | O(n) | O(1) | 4/11/2026 | No |
+| 167 | [Two Integer Sum II](https://neetcode.io/problems/two-integer-sum-ii/question) | Two Pointers | Medium | O(n) | O(1) | 4/11/2026 | No |
+| 15  | [Three Sum](https://neetcode.io/problems/three-integer-sum/question) | Two Pointers | Medium | O(n^2) | O(1) | 5/11/2026 | yes |
+
+
 ---
 
 
